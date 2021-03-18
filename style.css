@@ -1,0 +1,30 @@
+.box{
+   text-align: center;
+    margin-top: 100px;
+}
+.time{
+    font-size: 50px;
+}
+body{
+    background-color: black;
+    color: white;
+}
+.start{
+    color: white;
+    background-color: green;
+}
+.stop{
+    color: white;
+    background-color: red;
+}
+.reset{
+    color: white;
+    background-color: gray;
+}
+.btn{
+    border: none;
+    font-size: 30px;
+    margin-right: 20px;
+    border-radius: 5px;
+    padding: 10px 30px;
+}
